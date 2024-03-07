@@ -89,20 +89,3 @@
 
 
 
-Приклад:
-
-
-
---action create -m Teacher --name 'Boris Jonson' створення вчителя
-
---action list -m Teacher показати всіх вчителів
-
---action update -m Teacher --id 3 --name 'Andry Bezos' оновити дані вчителя з id=3
-
---action remove -m Teacher --id 3 видалити вчителя з id=3
-
-
-
-Реалізуйте ці операції для кожної моделі.
-
-
